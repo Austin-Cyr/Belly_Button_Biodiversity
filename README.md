@@ -8,3 +8,6 @@ Module 12
 - We utilized JSON data and created a drop down selection in HTML which would update a Horizontal Bar Chart, Gauge Chart and Bubble chart. We also hosted it on our local computer server to get around the CORS error. We also customized the Dashboard with Bootstrap and additional CSS styling. 
 
 ## Results 
+- Below is a snapshot of the finished Dashboard. 
+
+![Dashboard](https://github.com/Austin-Cyr/Belly_Button_Biodiversity/blob/main/Static/images/Charts.PNG)
